@@ -1,0 +1,19 @@
+<DOCTYPE html!>
+  <html>
+    <title>MFOPOU MOHAMED MOUSTAPHA</title>
+    <body>
+      <h1>Welcome to my Portfolio</h1>
+      <h2> About me</h2>
+      <p>My name is MFOPOU MOHAMED MOUSTAPHA. I am an aspiring IT student from Cameroon with a passion for technology and problem solving</p>
+      <h2>Skills</h2>
+      <ul>
+        <li> Basic computer skills</li>
+        <li> Internet and digital Tools</li>
+        <li> Learning web development and HTML</li>
+        </ul>
+        <h2> Projects</h2>
+        <p> Currently building my first web projects </p>
+        <h2> Contact</h2>
+        <p> Email: mmoustapha1738@gmail.co.</p>
+    </body>
+  </html>
